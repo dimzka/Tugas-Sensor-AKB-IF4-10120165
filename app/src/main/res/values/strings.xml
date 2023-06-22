@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tempat Makan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Nama: Muhamad Dimas Azka Syarif Umair</string>
+    <string name="kelas">Kelas: IF-4</string>
+    <string name="nim">NIM: 10120165</string>
+    <string name="title_memo">Informasi tentang aplikasi</string>
+    <string name="penjelasan">Aplikasi ini dibuat untuk memenuhi Tugas Sensor Aplikasi Komputasi Bergerak </string>
+    <string name="app">Tempat Makan</string>
+    <string name="deskripsi1">Di Tempat Makan Kamu bisa melihat tanda tempat makan favorit disekitarmu</string>
+    <string name="deskripsi2">Cari Tempat makanan yang kamu mau</string>
+    <string name="Tempat1">Nasi Bebek Goreng Khas Madura</string>
+    <string name="Tempat2">Mixue Pasir Koja</string>
+    <string name="Tempat3">Roemah Seafood</string>
+    <string name="Tempat4">Baso Semar</string>
+    <string name="Tempat5">Bolu Susu Lembang Pagarsih</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="Info">Informasi Aplikasi</string>
+    <string name="About">Tentang Aplikasi</string>
+    <string name="Version">Version 1.0</string>
+</resources>
